@@ -1,0 +1,6 @@
+.float-right {
+    right: 1em;
+    bottom: 1em;
+    float: inline-end;
+    position: absolute;
+}
